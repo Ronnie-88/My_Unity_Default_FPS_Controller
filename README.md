@@ -7,7 +7,7 @@ LOOK - MOUSE
 SHOOT - LEFT MOUSE BUTTON
 RELOAD - R
 JUMP - SPACEBAR
-SWITCH FIRING MODES - 1
+SWITCH FIRING MODES(Use projectiles or RayCasts) - 1
 (These controls are only for this build and will be changing in the coming builds)
 
 GAMEPAD CONTROLLER CONTROLS
